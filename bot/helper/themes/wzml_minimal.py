@@ -3,10 +3,10 @@ class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = '🛠️ Update'
-    ST_BN1_URL = 'https://t.me/+CLMp3nb8MQE5N2Jl'
+    ST_BN1_URL = 'https://t.me/teluguzoneofc'
     ST_BN2_NAME = '😘 Use Me'
-    ST_BN2_URL = 'https://t.me/+xRMi1F6pY3w3MDM9'
-    ST_MSG = '''<b>✨ Private King ➔ Mirror & Leech</b>\n\nI Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n
+    ST_BN2_URL = 'https://t.me/+Yu69s_CVpIsyOGU1'
+    ST_MSG = '''<b>✨ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON ➔ Mirror & Leech</b>\n\nI Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n
 <b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<b>🕵️ Bot PM Initiated Successfully!\n\n I will send all your files and links here.</b>'''
     ST_UNAUTH = '''<b>⚠️ Access Denied!</b>'''
@@ -58,7 +58,7 @@ class WZMLStyle:
 ┠ ▸<b>Total Disk Write :</b> {disk_write}
 ╰ ▸<b>U :</b> {disk_u} ┃ <b>F :</b> {disk_f} ┃ <b>T :</b> {disk_t}
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>
     
     '''
     SYS_STATS = '''<b>🛠 <u>𝙎𝙮𝙨𝙩𝙚𝙢 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨</u></b>
@@ -82,7 +82,7 @@ class WZMLStyle:
 ┠ ▸<b>Total Cores :</b> {total_core}
 ╰ ▸<b>Usable CPUs :</b> {cpu_use}
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>
     '''
     REPO_STATS = '''<b>🧑‍💻 <u>𝙍𝙚𝙥𝙤 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨</u></b>
 
@@ -93,7 +93,7 @@ class WZMLStyle:
 
 <b>💥 REMARKS :</b> <code>{remarks}</code>
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>
     '''
     BOT_LIMITS = '''<b>❗<u>𝘽𝙤𝙩 𝙇𝙞𝙢𝙞𝙩𝙨</u></b>
 
@@ -111,7 +111,7 @@ class WZMLStyle:
 ┠ ▸<b>👤 User Tasks :</b> {UT}
 ╰ ▸<b>🚧 Total Tasks :</b> {BT}
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>
     '''
     # ---------------------
 
@@ -127,7 +127,7 @@ class WZMLStyle:
 ┠ ▸<b>🌍 TimeZone:</b> {timz}
 ╰ ▸<b>🆔 Version:</b> {version}
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>'''
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>'''
     RESTARTED = '''<b>🔄 Bot Restarted!</b>'''
     # ---------------------
 
@@ -250,7 +250,7 @@ class WZMLStyle:
     COUNT_TYPE = '┠ ▸<b>📜 Type: </b>{COUNT_TYPE}\n'
     COUNT_SUB =  '┠ ▸<b>🗂️ SubFolders: </b>{COUNT_SUB}\n'
     COUNT_FILE = '┠ ▸<b>📂 Files: </b>{COUNT_FILE}\n'
-    COUNT_CC =   '╰ ▸<b>👤 User: </b>{COUNT_CC}\n\n<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>'
+    COUNT_CC =   '╰ ▸<b>👤 User: </b>{COUNT_CC}\n\n<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>'
     # ---------------------
 
     # LIST ---> gd_list.py
@@ -262,7 +262,7 @@ class WZMLStyle:
     # async def mirror_status(_, message): ----> status.py
     NO_ACTIVE_DL = '''<b>💩 No Active Tasks!</b>
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>
 
 ⌬ <b><u>Bot Stats</u></b>
 ╭ ▸<b>🖥️ CPU: <i>{cpu}% </i>┃ 💿 RAM: <i>{ram}% </i></b>
@@ -280,7 +280,7 @@ class WZMLStyle:
 ╰ ▸<b>🗣️ Language :</b> {LANG}
 
 ➲ <u><b>Available Args:</b></u>
-• <b>-s</b> or <b>-set</b>: Set Directly via Arg\n\n<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>'''
+• <b>-s</b> or <b>-set</b>: Set Directly via Arg\n\n<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>'''
 
     UNIVERSAL = '''㊂ <b><u>Universal</u></b>
 
@@ -292,7 +292,7 @@ class WZMLStyle:
 ┠ ▸<b>🕵️ Bot PM :</b> <i>{BOT_PM}</i>
 ╰ ▸<b>📩 Save Mode :</b> <i>{SAVE_MODE}</i>
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>'''
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>'''
 
     MIRROR = '''㊂ <b><u>Mirror/Clone : {NAME}</u></b>
 
@@ -305,7 +305,7 @@ class WZMLStyle:
 ┠ ▸<b>📮 User TD :</b> <i>{TMODE}</i>
 ╰ ▸<b>📝 TD Info:</b> <i>{USERTD}</i>
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>'''
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>'''
 
     LEECH = '''💫 <b><u>Leech Settings - {NAME}</u></b>
 
@@ -321,4 +321,4 @@ class WZMLStyle:
 ┠ ▸<b>📦 Dump :</b> <code>{LDUMP}</code>
 ╰ ▸<b>🌈 Remname :</b> <code>{LREMNAME}</code>
 
-<a href="https://t.me/+CLMp3nb8MQE5N2Jl"><b> 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 PRIVATE_KING</b></a>'''
+<a href="https://t.me/Daemon990"><b>𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 DAEMON</b></a>'''
